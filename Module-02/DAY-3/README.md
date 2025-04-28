@@ -26,8 +26,8 @@ To create a java program to read 5 values and display the all 5 values from arra
  ```
 /*
 Program to implement a Single Array using Java
-Developed by: VIJAY KUMAR B
-RegisterNumber:  212222230173
+Developed by: MAITHREYAN D
+RegisterNumber:  212222220021
 */
 ```
 
